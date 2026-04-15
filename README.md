@@ -1,4 +1,4 @@
-Dear Customer,
+Hello Customer,
 
 A recent Norton 360 order associated with your account has been confirmed. The payment was approved successfully, and system activation will begin shortly after verification.
 
